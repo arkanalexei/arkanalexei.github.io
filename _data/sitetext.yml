@@ -31,13 +31,25 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: ""
+        role: ""
+        image:
+        social:
+          - url:
+            icon:
+            
       - name: "Arkan Alexei Andrei"
         role: "Student"
         image: assets/img/team/photosquared.jpg
         social:
           - url: https://www.linkedin.com/in/arkan-alexei/
             icon: fab fa-linkedin-in
-       - name: ""
+            
+      - name: ""
+        role: ""
+        image:
+        social
+          - url:
+            icon:
 
   contact:
     title: "Contact Me"
