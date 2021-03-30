@@ -17,6 +17,12 @@ Using pyplot scatterplot, I found these results:
 pyplot scatterplot where the x axis is salary in millions and the y axis is Twitter followers in millions
 ![Salary and Twitter followers](https://raw.githubusercontent.com/arkanalexei/arkanalexei.github.io/main/assets/img/portfolio/salary%20and%20twitter.png)
 
+pyplot scatterplot where the x axis is amount of wins and the y axis is Twitter followers in millions
+![Wins and Twitter followers](https://raw.githubusercontent.com/arkanalexei/arkanalexei.github.io/main/assets/img/portfolio/salary%20and%20wins.png)
+
+pyplot scatterplot where the x axis is amount of points scored and the y axis is Twitter followers in millions
+![Points and Twitter followers](https://raw.githubusercontent.com/arkanalexei/arkanalexei.github.io/main/assets/img/portfolio/salary%20and%20pts.png)
+
 
 
 {:.list-inline} 
