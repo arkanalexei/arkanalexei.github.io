@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to Arkan Alexei's World!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#portofolio"
+    buttonlink: "#portfolio"
 
 
   portfolio:
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
     people:
       - name: "Arkan Alexei Andrei"
         role: "Student"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/20200127_090747.jpg
         social:
           - url: https://www.linkedin.com/in/arkan-alexei/
             icon: fab fa-linkedin-in
