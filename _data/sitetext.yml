@@ -30,12 +30,14 @@ en: &DEFAULT_EN
     subtext: This is where I post my personal projects. I am currently a high school senior and will be studying in Universitas Indonesia majoring in Computer Science for 2021.
     section: team
     people:
+      - name: ""
       - name: "Arkan Alexei Andrei"
         role: "Student"
-        image: assets/img/team/20200127_090747.jpg
+        image: assets/img/team/photosquared.jpg
         social:
           - url: https://www.linkedin.com/in/arkan-alexei/
             icon: fab fa-linkedin-in
+       - name: ""
 
   contact:
     title: "Contact Me"
