@@ -32,7 +32,7 @@ en: &DEFAULT_EN
     people:
       - name: ""
         role: ""
-        image:
+        image: 
         social:
           - url:
             icon:
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - name: ""
         role: ""
         image:
-        social
+        social:
           - url:
             icon:
 
