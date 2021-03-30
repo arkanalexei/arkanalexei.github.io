@@ -15,11 +15,11 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : "Arkan Alexei's Portofolio"
 email      : arkanalexei@gmail.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "This is where I post my personal projects. I am currently a high school senior and will be studying in Universitas Indonesia majoring in Computer Science for 2021."
 author     : Arkan Alexei
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
