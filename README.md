@@ -1,7 +1,5 @@
 ## Welcome to Arkan Alexei
-You can use the [editor on GitHub](https://github.com/arkanalexei/arkanalexei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is where I post my personal projects. I am currently a high school senior and will be studying in Universitas Indonesia majoring in Computer Science for 2021.
 
 ### Markdown
 
