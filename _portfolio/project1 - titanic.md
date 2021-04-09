@@ -17,7 +17,7 @@ They say that a data scientist's journey starts with the ever popular Titanic da
 
 Let's start by importing the necessary modules first.
 
-```py
+```
 import pandas as pd
 import random # <-- This we will need later
 ```
@@ -133,6 +133,7 @@ sns.barplot(x=x_ax,y=y_ax,linewidth=1.5,edgecolor="0.8")
 plt.xlabel('Accuracy')
 ```
 ![Model results](https://i.imgur.com/kznxoSE.png)
+
 Decision Tree, Random Forest, and Extra Tree got the exact same results as the highest scoring model.
 
 To save you some time, I submitted each model's guesses and found that Random Forest achieved the highest score in the test dataset with 74.401% accuracy! Hey, that's better than a coin flip.
