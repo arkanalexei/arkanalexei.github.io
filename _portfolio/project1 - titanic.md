@@ -43,6 +43,7 @@ Now that we have the features we wanted, let's see if there's NaN values in our 
 titanic_train.isna().sum()
 ```
 ![titanic_train.isna().sum()](https://i.imgur.com/GgKu11w.png)
+
 Wow! Age has 177 missing values, Cabin has a remarkable 687 missing values and Embarked missing only 2. 
 
 Well, nothing could be done about it. Let's fill these missing values. And since we won't be using Cabin, we will drop them instead.
@@ -68,6 +69,7 @@ Much cleaner! Now, do the same thing but to the test.csv which we will use after
 titanic_test.head()
 ```
 ![titanic_test.head()](https://i.imgur.com/uW0hNZm.png)
+
 Notice the missing Survived column. That is because we will be using this for the submission.
 
 ## Time to model!
