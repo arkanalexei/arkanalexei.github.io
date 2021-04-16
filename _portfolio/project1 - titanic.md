@@ -11,7 +11,7 @@ image: https://i.imgur.com/wJjLuZx.jpg #main image, can be a link or a file in a
 alt: image alt text
 
 ---
-To view this project, please head to my Kaggle notebook right [here](https://www.kaggle.com/arkanalexei/titanic-attempt-1). I had to do this because otherwise, the formatting will be ruined and you will not have an enjoyable reading experience.
+To view this project, please head to my Kaggle notebook right [here](https://www.kaggle.com/arkanalexei/titanic-attempt-2). I had to do this because otherwise, the formatting will be ruined and you will not have an enjoyable reading experience.
 
 Thank you!
 
