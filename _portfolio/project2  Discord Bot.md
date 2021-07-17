@@ -7,19 +7,34 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Discord Bot with Discord.py
 subtitle: How I made my fully customized Discord bot
-image: https://raw.githubusercontent.com/arkanalexei/arkanalexei.github.io/main/assets/img/portfolio/NBA.jpg #main image, can be a link or a file in assets/img/portfolio
+image: https://raw.githubusercontent.com/arkanalexei/arkanalexei.github.io/main/assets/img/portfolio/create-discord-bots-using-python.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum scelerisque eu nibh in fermentum. Quisque ultrices eleifend dolor vitae blandit. Nullam consectetur quam eget mi congue tempor. Sed neque turpis, pharetra vel egestas at, porttitor ut arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi arcu felis, hendrerit ac lorem ac, condimentum aliquet ipsum. Integer dignissim nunc ultrices, egestas lectus non, rutrum augue. Morbi elementum justo commodo tellus tempus, eu auctor enim vulputate. Vestibulum dictum eros non dolor ultrices vehicula. Quisque a tincidunt risus. Sed nec tincidunt elit, sed porta velit. Vestibulum tristique mauris nec leo sagittis, vitae egestas mi viverra.
+So let's start with the basic idea. I first wanted to create a Discord bot that could give me random quotes from Joko Widodo (don't ask why). After that's done, I was bored and decided to add even more features. Here's all of them as of July 2021.
 
-Curabitur commodo ante eget lacus dignissim, ac sodales enim bibendum. Praesent ullamcorper magna vel turpis volutpat, sit amet aliquam velit efficitur. Morbi gravida sapien vitae dolor rhoncus eleifend. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean nec blandit tellus. Suspendisse ut mi velit. Suspendisse consectetur lorem mattis vestibulum elementum. Ut et auctor est. Donec ipsum risus, scelerisque id bibendum non, vehicula in elit.
+1. Joko Widodo Random Quote Generator. 
+	![g](https://i.imgur.com/4pS7hfr.png)
 
-Vestibulum et tristique tellus. Aenean porta diam id molestie semper. Duis ornare augue eu dolor fermentum sagittis. Vestibulum ut malesuada enim. Duis massa quam, vestibulum ut venenatis nec, sodales non enim. Vivamus quis augue mollis, interdum ipsum vel, lobortis velit. In nec vulputate lectus. Sed sed arcu nulla. Nulla sed purus lacinia, ornare libero ac, egestas purus. Nulla in consectetur velit. Quisque rutrum vulputate sem. Vestibulum vel tempus tortor, tincidunt posuere ipsum. Proin in libero at libero gravida tristique. Pellentesque vestibulum nibh eget vulputate venenatis. Aliquam eget augue finibus, semper lectus sed, interdum metus.
+2. National Heroes Random Quote Generator
+![g](https://i.imgur.com/HrKPvHh.png)
 
-Donec sagittis eu erat ullamcorper sagittis. Etiam consequat et est id molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum nunc in nunc vehicula, at maximus arcu sodales. Aliquam fermentum est turpis, vitae hendrerit orci euismod ac. Nullam malesuada sed sem ut condimentum. Suspendisse tincidunt mauris suscipit mollis sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+3. Ping and 8ball minigame
+![h](https://i.imgur.com/w9dmqY7.png)
 
-Fusce gravida ornare metus id sagittis. Aenean in enim sed tortor congue dignissim non sit amet velit. Quisque vel tortor eros. Praesent fermentum velit vitae congue pulvinar. Nullam in mollis tellus. In hac habitasse platea dictumst. Duis at lectus a urna condimentum rhoncus quis at quam. Nullam a nisl vel lorem dapibus efficitur. Nullam mi ex, porta ut pharetra at, feugiat id mi. Nunc fringilla urna eu vehicula dapibus. Praesent at ullamcorper est. Nam et congue lorem. Ut massa erat, sollicitudin sed nisl tempus, cursus dignissim metus. Aenean in sagittis purus. Praesent ut velit erat. In quis ante facilisis, convallis enim non, egestas ligula.
+4. Reddit (supports all subreddits!)
+![g](https://i.imgur.com/Lqokc2n.png)
+
+5. Image manipulation (works with all images)
+![g](https://i.imgur.com/DdcVveo.png)
+
+6. Talk with an AI
+![g](https://i.imgur.com/aRuRKRk.png)
+
+7. A custom help page
+![g](https://i.imgur.com/m0cj3az.png)
+
+That's all for now.
 
 
 
